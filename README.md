@@ -3,7 +3,7 @@
 To run tests, execute the following command:
 
 ```bash
-npm run cy:run
+yarn run cy:run
 ```
 to make them pass put a proper API key in package.json cy:run script in --env token='putTokenHere'
 
